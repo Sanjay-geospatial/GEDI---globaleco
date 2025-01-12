@@ -24,4 +24,4 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Sanjay-geospatial/GEDI---globaleco
+   git clone https://github.com/Sanjay-geospatial/GEDI---globaleco.git
