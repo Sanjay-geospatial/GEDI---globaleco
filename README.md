@@ -1,7 +1,7 @@
 # GEDI---globaleco
 ## A simple python module for downloading and visualizing GEDI L4A dataset
 
-This module has has 2 classes:
+This module has 2 classes:
 1. globaleco.gedi
 2. globaleco.gedi_reader
 
