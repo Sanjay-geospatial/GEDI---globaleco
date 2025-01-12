@@ -28,5 +28,5 @@
 
 ## Acknowledgments
 
-- [ornldaac/GEDI L4A tutorial]
+- [ornldaac/gedi_tutorials]
 
