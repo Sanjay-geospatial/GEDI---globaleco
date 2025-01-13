@@ -19,6 +19,7 @@
   - `folium`
   - `geoviews`
   - `shapely`
+  - `earthaccess`
 
 ## Usage
 
